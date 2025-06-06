@@ -47,7 +47,7 @@ Follow these steps to set up and run the project in IntelliJ IDEA:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/transport-management-system.git
+   git clone https://(https://github.com/Inshal-Rabbani)/transport-management-system.git
 Open in IntelliJ IDEA
 
 File > Open > Select the project folder
@@ -100,5 +100,5 @@ Abstraction	Interface for database operations
 This project is developed for educational purposes as part of a university assignment. It is not production-ready but demonstrates strong foundational concepts in Java and backend development.
 
 🙌 Acknowledgements
-Built with 💻, ☕, and late-night debugging by Inshal and my TEam members(M.Anas, M.Ismail shah, M.Moeen & M.Rehan Malik Siddique)
+Built with 💻, ☕, and late-night debugging by Inshal and my Team members(M.Anas, M.Ismail shah, M.Moeen & M.Rehan Malik Siddique)
 If you like this project, feel free to ⭐ it!
